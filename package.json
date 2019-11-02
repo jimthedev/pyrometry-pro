@@ -9,7 +9,7 @@
     "css-reset-and-normalize": "2.0.1",
     "dlv": "1.1.2",
     "graphql": "14.2.1",
-    "lodash": "4.17.11",
+    "lodash": "4.17.15",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-router": "5.0.0",
